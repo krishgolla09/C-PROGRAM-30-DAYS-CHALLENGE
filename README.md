@@ -24,3 +24,23 @@ ALGORITHM
  8.DISPLAY THE TOTAL FUEL REQUIRED
  9.DISPLAY THE TOTAL FUEL COST REQUIRED
  10.STOP
+
+
+
+ CHALLENGE 03
+ ALGORITHM
+1. Start
+2.	Read the input values 
+3.	int customer_type
+4.	float  purchase_amount, discount_amount, discount_rate
+5.	float payable_amount, after_discount, delivery_charge, distance
+6.	check if it is student type
+7.	use  if statement for student discount
+8.	check if it is regular customer type
+9.	use if statement for regular customer discount
+10.	check distance using if statement
+11.	calculate the discount_amount
+12.	calculate the after_discount
+13.	calculate the payable_amount
+14.	display  the purchase, discount amount, after discount, delivery charge,final payable amount
+15.	end the programee
